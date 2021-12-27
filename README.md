@@ -13,6 +13,9 @@
 
 ![KakaoTalk_20211224_183158364_01](https://user-images.githubusercontent.com/88877270/147423343-cbd92cef-795e-47dd-8ca0-b7dd5e56cecd.gif)
 
+4.텍스트 분류
+
+![image](https://user-images.githubusercontent.com/88877270/147432444-14ba161e-dd9b-4d14-9a9a-13eb49c0d144.png)
 
 
 4.Hanbert이용 웹페이지화
